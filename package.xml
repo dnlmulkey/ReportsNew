@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Account.Open_Opp_Value__c</members>
+        <members>Account.Total_Opp_Value__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Executive_Dashboards</members>
+        <members>Executive_Dashboards/Marketing_Manager</members>
+        <members>Executive_Dashboards/Sales_Manager</members>
+        <members>Executive_Dashboards/Sales_Manager1</members>
+        <members>General_Dashboards</members>
+        <members>General_Dashboards/Sales_Reps</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
+        <members>Exec_R_and_D_Users</members>
+        <name>Group</name>
+    </types>
+    <types>
+        <members>Executive_Reports</members>
+        <members>Executive_Reports/Account_Value</members>
+        <members>Executive_Reports/Closed_Opps_number_and_amount_by_month</members>
+        <members>Executive_Reports/Opportunities_by_Closed_Month_and_Type</members>
+        <members>Executive_Reports/Opportunity_Pipeline</members>
+        <members>General_Reports</members>
+        <members>General_Reports/Contacts_Without_Hobbies</members>
+        <members>General_Reports/Contacts_by_Hobby</members>
+        <members>General_Reports/Contacts_by_Hobby_and_Rating</members>
+        <members>General_Reports/Lightning_Hobbies_by_Contact</members>
+        <name>Report</name>
+    </types>
+    <version>43.0</version>
+</Package>
